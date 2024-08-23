@@ -12,4 +12,6 @@ Currently, two official plugins are available:
 ![ss](src/assets/dice/eneswins.png)
 
 
-## Live
+## Live Link
+
+https://dice-game-zeta-three.vercel.app/
